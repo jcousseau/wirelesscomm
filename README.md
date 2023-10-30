@@ -6,7 +6,7 @@
 * modulation
 * multiple access techniques
 * advanced signal processing techniques
-* Iot: licensed vs unlicensed 
+* IoT: licensed vs unlicensed 
 
 ## What you will learn
 * Advanced topics on wireless communication systems are presnted.
